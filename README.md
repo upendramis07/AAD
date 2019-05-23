@@ -1,2 +1,0 @@
-# AAD
-Appian deployment automation
